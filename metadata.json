@@ -1,0 +1,7 @@
+{
+  "name": "KAINAR COLLEGE ҚАУІПСІЗДІК ПОРТАЛЫ",
+  "description": "Қайнар колледжінің зияткерлік қауіпсіздік порталы",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
